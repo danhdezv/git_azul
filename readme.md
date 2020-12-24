@@ -1,7 +1,7 @@
 # Titulo de mi Proyecto
 ** Proyecto de git and  Github**
 
-Este proyecto son prubebas de git and github   
+Este proyecto son pruebas de git and github   
 > ESto es una prueba.
 
 [//]:# (listas enumeradas)
